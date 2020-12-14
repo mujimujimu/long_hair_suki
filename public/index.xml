@@ -1,33 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on My New Hugo Site</title>
+    <title>長髪男受けアンソロジー</title>
     <link>http://example.org/</link>
-    <description>Recent content in Ananke: a Hugo Theme on My New Hugo Site</description>
+    <description>Recent content on 長髪男受けアンソロジー</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 13:27:57 +0900</lastBuildDate>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 06 Dec 2020 13:27:57 +0900</pubDate>
+      <title>サイトを公開しました。</title>
+      <link>http://example.org/post/1/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://example.org/post/1/</guid>
+      <description>サイトを公開しました。これから頒布まで随時更新していきます。</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <title>募集要項を公開しました。</title>
+      <link>http://example.org/post/2/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2/</guid>
+      <description>募集要項・エントリーフォームを公開しました。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
+      <guid>http://example.org/about/</guid>
+      <description>概要  テーマは「長髪男受け」です。 作品はBLに限定します。R18も可能です。 受けの男性が長髪であれば一次創作・二次創作は問いません。  各作品の創作ガイドラインに従います。   1人5作品まで応募可能です。熱意ある長髪男受けをお待ちしています。  長髪の定義  一般的に「ロング」と呼ばれる髪型を指します。 具体的にはキャラクターの髪が胸より長ければOKとします。  エントリー方法  本リンクよりエントリーください。(※2021年6月末必着)  原稿締め切り  2021年7月31日必着  原稿規格  サイズ: B5 カラーモード: グレースケール or モノクロ二階調 600dpi ページ数: 最大8P ファイルの受け渡し方法: skype/discord/googleドライブ(応相談) 印刷所はSTARBOOKSを利用予定です。  下記リンクよりB5・モノクロ本文テンプレートをご利用ください。 https://www.starbooks.jp/manual/data_template.php    </description>
     </item>
     
   </channel>

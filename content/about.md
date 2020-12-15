@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: ""
-featured_image: ''
+featured_image: '/images/header.jpg'
 menu: "main"
 ---
 ### 概要

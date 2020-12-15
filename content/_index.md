@@ -1,6 +1,6 @@
 ---
 title: "長髪男受けアンソロジー"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/header.jpg'
 description: "オールジャンル長髪男受けアンソロジー告知サイト"
 ---
 
